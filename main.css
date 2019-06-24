@@ -23,11 +23,10 @@ background-color: #808080;
  width:500px;
  height:200px;
  display: inline-block;
+ background-image: source("/trial/vine-glasses.jpg");
+ background-size: cover;
 }
- 
-h1 {
-  background-image: source("/trial/vine-glasses.jpg");
-  }
+
 
 * { 
   font-family: helvetica;
