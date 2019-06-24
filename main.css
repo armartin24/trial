@@ -11,6 +11,10 @@
  }
 
 
+li {
+  float: left;
+}
+
 ul {
     list-style-position: inside;
 }
