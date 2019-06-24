@@ -1,0 +1,29 @@
+<html>
+
+<head>
+    <link rel='stylesheet' type='text/css' href='main.css'>
+</head>
+
+<body>
+  <h1>
+    Sign-up to PHE's digital accessibility group
+  </h1>
+  
+  <p>
+  Signing up here means that you will be invited to monthly meetings, fantastic events and you will be included in the digital accessibility mailing list.
+  </p>
+  <form>
+    <p>Full name</p>
+    <input type="text">
+    <br>
+    <p>PHE email address</p>
+    <input type="text"> 
+    <br>
+    <p>I consent to the digital accessibility group contacting me by email and including me on their mailing list<p>
+    <input type=radio>
+    <br>
+    <input type="submit">
+  </form>
+</body>
+
+</html>
