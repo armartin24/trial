@@ -3,6 +3,7 @@
  list-style-type: none;
  display: inline;
  padding: 14px 16px;
+ float: left;
 }
 
 #navigatora {
@@ -10,10 +11,6 @@
  text-decoration: none;
  }
 
-
-li {
-  float: left;
-}
 
 ul {
     list-style-position: inside;
