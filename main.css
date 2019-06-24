@@ -1,18 +1,18 @@
 
-li {
+#navigatorli {
  list-style-type: none;
  display: inline;
  padding: 14px 16px;
 }
 
-li a {
+#navigatora {
  color: white;
  font-family: helvetica;
  text-decoration: none;
  text-align: center;
  }
 
-ul {
+#navigatorul {
 background-color: #808080;
 }
 
