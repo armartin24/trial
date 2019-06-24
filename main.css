@@ -11,6 +11,11 @@
  text-align: center;
  }
 
+#navigatora:hover {
+  background-color: #555;
+  color: white;
+}
+
 #navigatorul {
 background-color: #808080;
 }
