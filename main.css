@@ -3,19 +3,12 @@
  list-style-type: none;
  display: inline;
  padding: 14px 16px;
- float: left;
 }
 
 #navigatora {
  color: white;
  text-decoration: none;
- }
-
-
-ul {
-    list-style-position: inside;
-}
- 
+ } 
 
 #navigatora:hover {
   background-color: #555;
