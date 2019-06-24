@@ -8,7 +8,6 @@
 #navigatora {
  color: white;
  text-decoration: none;
- text-align: center;
  }
 
 #navigatora:hover {
@@ -27,6 +26,7 @@ h1 {
 
 * { 
   font-family: helvetica;
+  text-align: center;
 }
  
 
