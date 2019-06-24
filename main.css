@@ -7,7 +7,6 @@
 
 #navigatora {
  color: white;
- font-family: helvetica;
  text-decoration: none;
  text-align: center;
  }
@@ -20,5 +19,9 @@ h1 {
   background-image: "/trial/vine-glasses.jpg/";
   background-repeat: no-repeat;
   }
+
+* { 
+  font-family: helvetica;
+ 
 
 
