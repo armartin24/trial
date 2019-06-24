@@ -19,9 +19,13 @@
 background-color: #808080;
 }
 
+#h1box {
+ width:200px;
+	height:300px;
+}
+ 
 h1 {
   background-image: /trial/vine-glasses.jpg;
-  background-repeat: no-repeat;
   }
 
 * { 
