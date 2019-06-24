@@ -25,7 +25,7 @@ background-color: #808080;
 }
  
 h1 {
-  background-image: /trial/vine-glasses.jpg;
+  background-image: source("/trial/vine-glasses.jpg");
   }
 
 * { 
