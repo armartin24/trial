@@ -23,6 +23,7 @@ h1 {
 }
 
 .bodybox {
-  outline-color: darkgray;
+  border-style: solid;
+  border-color: darkgray;
 }
 
