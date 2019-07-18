@@ -12,7 +12,7 @@
 
 #navigatorul {
   background-color: #808080;
-  height: 50px;
+  height: 30px;
 }
 
 h1 {
@@ -20,7 +20,8 @@ h1 {
 }
 
 .navigatora {
-  color: blue;
+  color: white;
+  margin: 10px;
 }
 
 .bodybox {
