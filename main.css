@@ -5,9 +5,18 @@
   font-color: "blue";
 }
 
-#navigatorli {
+.navigatorli {
  list-style-type: none;
  display: inline;
  padding: 14px 16px;
 }
+
+#navigatorul {
+background-color: #808080;
+}
+
+.navigatora {
+ color: white;
+ text-decoration: none;
+ }
 
