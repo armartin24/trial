@@ -25,5 +25,6 @@ h1 {
 .bodybox {
   border-style: solid;
   border-color: darkgray;
+  margin: 20px
 }
 
