@@ -2,11 +2,14 @@
 * { 
   font-family: helvetica;
   text-align: center;
-  color: "blue";
 }
 
 .navigatorli {
  list-style-type: none;
  display: inline;
  padding: 14px 16px;
+}
+
+h1 {
+  color: "blue";
 }
