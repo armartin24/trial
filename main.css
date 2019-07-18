@@ -28,3 +28,12 @@ h1 {
   margin: 20px;
 }
 
+#h1box {
+ width:500px;
+ height:200px;
+ display: inline-block;
+ background-image: '/trial/vine-glasses.jpg';
+ background-size: cover;
+}
+
+
