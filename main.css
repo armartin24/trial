@@ -2,7 +2,7 @@
 * { 
   font-family: helvetica;
   text-align: center;
-  font-color: "blue";
+  color: "blue";
 }
 
 .navigatorli {
@@ -12,11 +12,10 @@
 }
 
 #navigatorul {
-background-color: #808080;
+  background-color: #808080;
 }
 
 .navigatora {
- color: white;
- text-decoration: none;
- }
+  color: white;
+}
 
