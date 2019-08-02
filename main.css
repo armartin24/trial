@@ -27,7 +27,8 @@ h1 {
 .bodybox {
   border-style: solid;
   border-color: darkgray;
-  margin: 20px 50px 20px 50px;
+  margin: 20px 50px 20px 200px;
+  flat: left;
 }
 
 #h1box {
@@ -41,3 +42,8 @@ h1 {
   height: 600px;
 }
 
+#picture {
+  width: 500px;
+  height: 500px;
+  float: right;
+}
