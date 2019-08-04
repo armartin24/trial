@@ -39,6 +39,9 @@ h1 {
 }
 
 #picture {
-  width: 100px;
   float: right;
+}
+
+#glasses {
+  width: 300px;
 }
