@@ -15,6 +15,10 @@
   height: 30px;
 }
 
+#blue {
+  color: blue;
+}
+
 h1 {
   color: black;
   text-align: center;
